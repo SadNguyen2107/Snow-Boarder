@@ -1,4 +1,4 @@
-# Snow-Boarder
+# Unity Snow-Boarder
 
 My 2nd Unity Game
 
